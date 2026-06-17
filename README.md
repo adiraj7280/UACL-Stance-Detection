@@ -1,4 +1,4 @@
-Mitigating Minority-Class Collapse in Noisy Stance Detection via Uncertainty-Aware Curriculum Learning
+# Mitigating Minority-Class Collapse in Noisy Stance Detection via Uncertainty-Aware Curriculum Learning
 This repository contains the datasets utilized in the paper "Mitigating Minority-Class Collapse in Noisy Stance Detection via Uncertainty-Aware Curriculum Learning."
 
 Data Sources & Attribution:
